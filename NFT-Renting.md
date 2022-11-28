@@ -6,9 +6,9 @@ we brought to you the simplest way to rent NFTs and use them in games or metaver
 
 ##### Steps to Rent NFTs
   
-    - Go to https://rent-web3.vercel.app
+    - Go to https://rent-web3-v1.vercel.app
     - Click on `Explore Assets`
-    - Click on `Explore NFTs`
+    - Click on `Rent NFTs`
     - Choose NFT of your choice.
     - Enter number of days you want to rent NFT for.
     - Sign the transaction to pay the price
