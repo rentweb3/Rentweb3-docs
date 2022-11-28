@@ -9,7 +9,7 @@ Try Navigating through
 [=> Upload an NFT](./NFT-upload.md)<br/>
 [=> Renting NFTs](./NFT-Renting.md)<br/>
 [=> Upload a Rentable Dapp](./Dapp-upload.md)<br/>
-[=> Renting a Dapp](./Making-rentable-dapp.md)<br/>
+[=> Renting a Dapp](./Dapp-renting.md)<br/>
 [=> Integrating Rented NFTs](./Integrating-rented-NFTs.md)<br/>
 [=> Make a Rentable Dapp](./Making-rentable-dapp.md)<br/>
 [=> Closing Note](./closing-note.md)
